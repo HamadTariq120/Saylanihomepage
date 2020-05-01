@@ -1,0 +1,227 @@
+          /* Top menu 1 */
+.box{
+    background-color: lightgray;
+}
+.menue{ background-color:rgb(93, 93, 236) ;
+    padding: 10px;
+}
+span{
+    color: white;
+    font-size: 17px;
+}
+a{ 
+    text-decoration: none;
+    padding: 10px;
+   
+}
+li{
+    display: inline ;
+    
+}
+ul{
+    margin:auto 10px;
+
+}
+        /*  second menu */
+
+
+.header{
+    background-color:lightgray}
+    
+.img2{
+    width: 180px;
+}
+.ul1{
+    text-align: center;
+    font-size: 17px;
+    display: flex;
+
+}
+
+               /* slider images */
+            .slider{
+                width: 1330px;
+                height: 500px;
+                
+                 
+ }
+             /* Marqueee */
+                .marquee{
+                    
+                width: 1300px;
+                background-color: rgb(93, 93, 236);
+                padding: 3px;
+                margin:auto 10px;
+                /* margin: 10px auto 10px auto; */
+                }
+            .marqueea{
+                color: white;
+            }
+            .li{
+                margin: 20px;
+               padding: 1px;
+
+           
+
+            }
+
+            
+              /* Paragraph */
+            .p{
+                text-align: center;
+                
+            }
+            .paragraph{
+                width: 1000px;
+                margin: 10px auto;
+                font-size: 17px;
+                background-color:lightgray;
+                
+                padding: 70px;
+            }
+                    /* box */
+
+
+                    .container1{
+                        text-align:center;
+                      width: 97%;
+                      overflow: hidden;
+                      /* background-color: lemonchiffon; */
+                      margin: 10px auto ;
+                      padding: 20px;
+                      background-color: rgb(93, 93, 236) ;
+              
+              
+                  }
+              
+                  .container1 ul{
+                      padding: 0px;
+                      margin: 0px;
+                      
+                  } 
+              
+                  .container1 ul li{
+                      list-style: none;
+                      float: left;
+                      
+                      width: 24%;
+                      height: 200px;
+                      /* background-color: whitesmoke; */
+                      margin: 30px 0px 0px 1px;
+                      color: whitesmoke;
+                      
+                  }
+
+
+                .container{
+                    text-align: center;
+                }
+
+                    /* 6 box */
+
+                  table{
+                      
+                    border: none;
+                    width: 1200px;
+                    height: auto;
+                }
+                .containera{
+                    
+                    background-color:whitesmoke;
+                    width: 90%;
+                    height: 200px;
+                     margin: 20px;
+                padding: 10px auto;
+                
+                }
+                .data{
+                    color:blue;
+                }
+                td{
+                    width: 600px;
+                }
+                font{
+                    color: green;
+                }
+
+              
+                         /* Grid system */
+                         .containerb{
+                            width: 100%;
+                            
+                            /* padding: 10px 10px 10px 10px; */
+                            margin: 10px auto;
+                            /* background-color: aqua; */
+                             display: grid;
+                             grid-template-columns: 30% 30% 60%;
+                             grid-template-rows: 100px 100px ;
+                             grid-row-gap: 20px;
+                             grid-column-gap: 30px;
+                          
+                        }
+                        .div1{
+                            background-color: whitesmoke;
+                            
+                        }
+                        .div2{
+                            background-color: whitesmoke;
+                        
+                        
+                        
+                        }
+                        .div3{
+                            background-color: whitesmoke;
+                        
+                            height:215px;
+                            width: 400px;
+                           
+                          
+                            
+                        }
+                        .div4{
+                            background-color: whitesmoke;
+                        
+                        
+                        }
+                        
+                        .div5{
+                            background-color: whitesmoke;
+                        
+                        
+                        }
+
+                         /* images gallary */
+       .gallary{
+        /* background-color: rgb(179, 49, 49); */
+        /* width: 9%; */
+        margin: 10px auto;
+        /* padding: 05px; */
+        text-align: center;
+        
+        
+    }
+ .gal{
+     display: inline;
+ }
+
+
+     /* footer */
+     footer{
+        height: 300px;
+        text-align: center;
+        background-color:black;
+        color: white;
+    }
+    
+        
+    table{
+        /* background-color: yellow; */
+    }
+    td{
+        width: 25%;
+    }
+    .foota{
+        display: inline;
+    
+    }
+
