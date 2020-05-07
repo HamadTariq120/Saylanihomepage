@@ -26,7 +26,11 @@ ul{
 
 
 .header{
-    background-color:lightgray}
+    background-color:lightgray;
+    /* position: fixed; */
+
+}
+
     
 .img2{
     width: 180px;
